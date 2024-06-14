@@ -1,6 +1,6 @@
 # Sport Pressure Sensor
 
-The project aims to improve sports performance and analyze errors in real time or processed on demand, through multiple sensors of position, acceleration, temperature and through a magnetometer increases accuracy.
+The project aims to improve sports performance while using bats, poles, or any kind of sports instrument, act to analyze errors in real-time or processed on demand on an App. Through multiple sensors of position, acceleration, temperature, and a magnetometer, accuracy and precision with low error is achieved.
 
 The following prototype can be reduced in size, with other less bulky processors, a Raspberry Pi 3 and a wiring adapter was used for convenience in setup.
 
